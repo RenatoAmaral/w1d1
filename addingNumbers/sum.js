@@ -1,2 +1,3 @@
 var args = process.argv;
-cosole.log(args);
+//console.log(args);
+console.log( Number(args[2]) + Number(args[3]));
